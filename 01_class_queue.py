@@ -1,3 +1,5 @@
+# Класс Queue, который реализует основные операции очереди
+
 class Queue:
     def __init__(self):
         self.items = []
